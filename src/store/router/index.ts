@@ -1,6 +1,6 @@
 export default {
   state: {
-    name: 'Vue-Router'
+    name: 'Vue Router'
   },
   mutations: {
     printName (state: any) {

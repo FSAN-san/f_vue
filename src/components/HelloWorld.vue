@@ -1,7 +1,8 @@
 <template>
   <div>
     <p>Hello {{ name }}</p>
-    <p>This is Vue3 + Vite + Eslint + {{ state.routerStore.name }} + Vuex + PostCSS + SCSS</p>
+    <p>This is Vue 3 + TypeScript + Vite + EsLint + {{ state.routerStore.name }} + Vuex + PostCSS + SCSS</p>
+    <p>Your Success!</p>
   </div>
 </template>
 
