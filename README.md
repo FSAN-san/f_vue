@@ -9,7 +9,7 @@ The plugin is as follows:
 5. `SCSS`
 
 # Use
-此项目使用`yarn`包管理，并且使用的开发工具为`WebStorm`，版本请使用`20年3月及以上`
+此项目使用包管理为`yarn`，开发工具为`WebStorm`，请使用`21年3月`以上版本
 
 ## 为WebStorm配置ESLint环境
 `Settings`中搜索`eslint`选择第二个`automatic`即可
