@@ -2,6 +2,7 @@
 This is a `Vue 3 + TypeScript + Vite` project.
 
 The plugin is as follows:
+1. `Axios`
 1. `ESLint`
 2. `Vue Router`
 3. `Vuex`

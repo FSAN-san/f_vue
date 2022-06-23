@@ -1,7 +1,7 @@
 <template>
   <div>
     <p>Hello {{ name }}</p>
-    <p>This is Vue 3 + TypeScript + Vite + EsLint + {{ state.routerStore.name }} + Vuex + PostCSS + SCSS</p>
+    <p>This is Vue 3 + TypeScript + Vite + Axios + ESLint + {{ state.routerStore.name }} + Vuex + PostCSS + SCSS</p>
     <p>Your Success!</p>
   </div>
 </template>
@@ -12,6 +12,7 @@ import { useStore } from 'vuex'
 const { commit, state } = useStore()
 commit('printName')
 const name = 'FSAN'
+
 </script>
 
 <style scoped lang="scss">
